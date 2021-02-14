@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "serve": "node index"
+    "serve": "node index",
+    "start": "node index"
   },
   "keywords": [],
   "author": "",
